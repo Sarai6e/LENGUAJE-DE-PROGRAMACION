@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\",
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|c:\\users\\sarai\\downloads\\lenguaje-_de_programaci-n\\07_03_24\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|c:\\users\\alumno\\documents\\lenguaje-_de_programaci-n\\07_03_24\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|solutionrelative:Calculadora\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|c:\\users\\alumno\\documents\\lenguaje-_de_programaci-n\\07_03_24\\calculadora\\calculadora\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|c:\\users\\alumno\\documents\\lenguaje-_de_programaci-n\\07_03_24\\calculadora\\calculadora\\resources\\images.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{280E537F-9625-4AA0-A595-57970D651B9D}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\resources\\images.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,24 +34,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "images.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [225x225, 8 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Resources\\images.png",
+              "RelativeDocumentMoniker": "Calculadora\\Resources\\images.png",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Resources\\images.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [225x225, 8 bits, PNG]",
+              "RelativeToolTip": "Calculadora\\Resources\\images.png -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [225x225, 8 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-13T15:54:17.074Z",
+              "EditorCaption": " -  [Espa\u00F1ol (Espa\u00F1a, alfabetizaci\u00F3n internacional)] - PNG [225x225, 8 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Calculadora\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Properties\\Resources.resx",
+              "RelativeToolTip": "Calculadora\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-13T15:52:20.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Calculadora\\Form1.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAADQAAAAMAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvysAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T17:36:23.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\07_03_24\\Calculadora\\Calculadora\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Calculadora\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T17:36:10.607Z",

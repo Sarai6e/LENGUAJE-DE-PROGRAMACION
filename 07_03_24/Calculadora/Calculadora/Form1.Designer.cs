@@ -45,11 +45,12 @@
             this.btnResta = new System.Windows.Forms.Button();
             this.btnSuma = new System.Windows.Forms.Button();
             this.btnResultado = new System.Windows.Forms.Button();
-            this.btnBorrar = new System.Windows.Forms.Button();
             this.btnDivision = new System.Windows.Forms.Button();
             this.btnReset = new System.Windows.Forms.Button();
             this.btnModulo = new System.Windows.Forms.Button();
             this.lblHistorial = new System.Windows.Forms.Label();
+            this.btnBorrar = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -57,18 +58,18 @@
             this.label1.AccessibleRole = System.Windows.Forms.AccessibleRole.Window;
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.label1.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Arial Narrow", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label1.Location = new System.Drawing.Point(111, 9);
+            this.label1.Location = new System.Drawing.Point(97, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(74, 25);
+            this.label1.Size = new System.Drawing.Size(84, 29);
             this.label1.TabIndex = 0;
             this.label1.Text = "SENATI";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // cajaResultado
             // 
-            this.cajaResultado.Location = new System.Drawing.Point(23, 88);
+            this.cajaResultado.Location = new System.Drawing.Point(23, 80);
             this.cajaResultado.Multiline = true;
             this.cajaResultado.Name = "cajaResultado";
             this.cajaResultado.Size = new System.Drawing.Size(227, 42);
@@ -78,7 +79,7 @@
             // btnUno
             // 
             this.btnUno.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnUno.Location = new System.Drawing.Point(23, 309);
+            this.btnUno.Location = new System.Drawing.Point(23, 297);
             this.btnUno.Name = "btnUno";
             this.btnUno.Size = new System.Drawing.Size(52, 46);
             this.btnUno.TabIndex = 4;
@@ -89,7 +90,7 @@
             // btnTres
             // 
             this.btnTres.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTres.Location = new System.Drawing.Point(140, 309);
+            this.btnTres.Location = new System.Drawing.Point(140, 297);
             this.btnTres.Name = "btnTres";
             this.btnTres.Size = new System.Drawing.Size(52, 46);
             this.btnTres.TabIndex = 5;
@@ -100,7 +101,7 @@
             // btnDos
             // 
             this.btnDos.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDos.Location = new System.Drawing.Point(81, 309);
+            this.btnDos.Location = new System.Drawing.Point(81, 297);
             this.btnDos.Name = "btnDos";
             this.btnDos.Size = new System.Drawing.Size(52, 46);
             this.btnDos.TabIndex = 6;
@@ -111,7 +112,7 @@
             // btnCinco
             // 
             this.btnCinco.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCinco.Location = new System.Drawing.Point(81, 249);
+            this.btnCinco.Location = new System.Drawing.Point(81, 237);
             this.btnCinco.Name = "btnCinco";
             this.btnCinco.Size = new System.Drawing.Size(52, 46);
             this.btnCinco.TabIndex = 9;
@@ -122,7 +123,7 @@
             // btnSeis
             // 
             this.btnSeis.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSeis.Location = new System.Drawing.Point(140, 249);
+            this.btnSeis.Location = new System.Drawing.Point(140, 237);
             this.btnSeis.Name = "btnSeis";
             this.btnSeis.Size = new System.Drawing.Size(52, 46);
             this.btnSeis.TabIndex = 8;
@@ -133,7 +134,7 @@
             // btncuatro
             // 
             this.btncuatro.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btncuatro.Location = new System.Drawing.Point(23, 249);
+            this.btncuatro.Location = new System.Drawing.Point(23, 237);
             this.btncuatro.Name = "btncuatro";
             this.btncuatro.Size = new System.Drawing.Size(52, 46);
             this.btncuatro.TabIndex = 7;
@@ -144,7 +145,7 @@
             // btnOcho
             // 
             this.btnOcho.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnOcho.Location = new System.Drawing.Point(81, 194);
+            this.btnOcho.Location = new System.Drawing.Point(81, 182);
             this.btnOcho.Name = "btnOcho";
             this.btnOcho.Size = new System.Drawing.Size(52, 46);
             this.btnOcho.TabIndex = 12;
@@ -155,7 +156,7 @@
             // btnNueve
             // 
             this.btnNueve.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNueve.Location = new System.Drawing.Point(140, 194);
+            this.btnNueve.Location = new System.Drawing.Point(140, 182);
             this.btnNueve.Name = "btnNueve";
             this.btnNueve.Size = new System.Drawing.Size(52, 46);
             this.btnNueve.TabIndex = 11;
@@ -166,7 +167,7 @@
             // btnSiete
             // 
             this.btnSiete.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSiete.Location = new System.Drawing.Point(23, 194);
+            this.btnSiete.Location = new System.Drawing.Point(23, 182);
             this.btnSiete.Name = "btnSiete";
             this.btnSiete.Size = new System.Drawing.Size(52, 46);
             this.btnSiete.TabIndex = 10;
@@ -177,9 +178,9 @@
             // btnCero
             // 
             this.btnCero.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCero.Location = new System.Drawing.Point(23, 362);
+            this.btnCero.Location = new System.Drawing.Point(23, 350);
             this.btnCero.Name = "btnCero";
-            this.btnCero.Size = new System.Drawing.Size(110, 46);
+            this.btnCero.Size = new System.Drawing.Size(52, 46);
             this.btnCero.TabIndex = 13;
             this.btnCero.Text = "0";
             this.btnCero.UseVisualStyleBackColor = true;
@@ -188,99 +189,96 @@
             // btnPunto
             // 
             this.btnPunto.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPunto.Location = new System.Drawing.Point(140, 361);
+            this.btnPunto.Location = new System.Drawing.Point(81, 349);
             this.btnPunto.Name = "btnPunto";
             this.btnPunto.Size = new System.Drawing.Size(52, 46);
             this.btnPunto.TabIndex = 14;
             this.btnPunto.Text = ".";
             this.btnPunto.UseVisualStyleBackColor = true;
+            this.btnPunto.Click += new System.EventHandler(this.btnPunto_Click);
             // 
             // btnMultiplicar
             // 
+            this.btnMultiplicar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMultiplicar.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMultiplicar.Location = new System.Drawing.Point(198, 194);
+            this.btnMultiplicar.Location = new System.Drawing.Point(200, 185);
             this.btnMultiplicar.Name = "btnMultiplicar";
             this.btnMultiplicar.Size = new System.Drawing.Size(52, 46);
             this.btnMultiplicar.TabIndex = 15;
             this.btnMultiplicar.Text = "x";
-            this.btnMultiplicar.UseVisualStyleBackColor = true;
+            this.btnMultiplicar.UseVisualStyleBackColor = false;
             this.btnMultiplicar.Click += new System.EventHandler(this.btnMultiplicar_Click);
             // 
             // btnResta
             // 
+            this.btnResta.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnResta.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnResta.Location = new System.Drawing.Point(198, 249);
+            this.btnResta.Location = new System.Drawing.Point(198, 237);
             this.btnResta.Name = "btnResta";
             this.btnResta.Size = new System.Drawing.Size(52, 46);
             this.btnResta.TabIndex = 16;
             this.btnResta.Text = "-";
-            this.btnResta.UseVisualStyleBackColor = true;
+            this.btnResta.UseVisualStyleBackColor = false;
             this.btnResta.Click += new System.EventHandler(this.btnResta_Click);
             // 
             // btnSuma
             // 
+            this.btnSuma.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnSuma.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSuma.Location = new System.Drawing.Point(198, 309);
+            this.btnSuma.Location = new System.Drawing.Point(198, 297);
             this.btnSuma.Name = "btnSuma";
             this.btnSuma.Size = new System.Drawing.Size(52, 46);
             this.btnSuma.TabIndex = 17;
             this.btnSuma.Text = "+";
-            this.btnSuma.UseVisualStyleBackColor = true;
+            this.btnSuma.UseVisualStyleBackColor = false;
             this.btnSuma.Click += new System.EventHandler(this.btnSuma_Click);
             // 
             // btnResultado
             // 
+            this.btnResultado.BackColor = System.Drawing.SystemColors.Highlight;
             this.btnResultado.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnResultado.Location = new System.Drawing.Point(198, 362);
+            this.btnResultado.Location = new System.Drawing.Point(140, 350);
             this.btnResultado.Name = "btnResultado";
-            this.btnResultado.Size = new System.Drawing.Size(52, 46);
+            this.btnResultado.Size = new System.Drawing.Size(110, 46);
             this.btnResultado.TabIndex = 18;
             this.btnResultado.Text = "=";
-            this.btnResultado.UseVisualStyleBackColor = true;
+            this.btnResultado.UseVisualStyleBackColor = false;
             this.btnResultado.Click += new System.EventHandler(this.button15_Click);
-            // 
-            // btnBorrar
-            // 
-            this.btnBorrar.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBorrar.Location = new System.Drawing.Point(198, 140);
-            this.btnBorrar.Name = "btnBorrar";
-            this.btnBorrar.Size = new System.Drawing.Size(52, 46);
-            this.btnBorrar.TabIndex = 22;
-            this.btnBorrar.Text = "<";
-            this.btnBorrar.UseVisualStyleBackColor = true;
-            this.btnBorrar.Click += new System.EventHandler(this.button16_Click);
             // 
             // btnDivision
             // 
+            this.btnDivision.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnDivision.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDivision.Location = new System.Drawing.Point(81, 140);
+            this.btnDivision.Location = new System.Drawing.Point(81, 128);
             this.btnDivision.Name = "btnDivision";
             this.btnDivision.Size = new System.Drawing.Size(52, 46);
             this.btnDivision.TabIndex = 21;
             this.btnDivision.Text = "/";
-            this.btnDivision.UseVisualStyleBackColor = true;
+            this.btnDivision.UseVisualStyleBackColor = false;
             this.btnDivision.Click += new System.EventHandler(this.button17_Click);
             // 
             // btnReset
             // 
+            this.btnReset.BackColor = System.Drawing.SystemColors.Highlight;
             this.btnReset.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReset.Location = new System.Drawing.Point(140, 140);
+            this.btnReset.Location = new System.Drawing.Point(140, 130);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(52, 46);
             this.btnReset.TabIndex = 20;
             this.btnReset.Text = "C";
-            this.btnReset.UseVisualStyleBackColor = true;
+            this.btnReset.UseVisualStyleBackColor = false;
             this.btnReset.Click += new System.EventHandler(this.button18_Click);
             // 
             // btnModulo
             // 
+            this.btnModulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnModulo.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnModulo.Location = new System.Drawing.Point(23, 140);
+            this.btnModulo.Location = new System.Drawing.Point(23, 128);
             this.btnModulo.Name = "btnModulo";
             this.btnModulo.Size = new System.Drawing.Size(52, 46);
             this.btnModulo.TabIndex = 19;
             this.btnModulo.Text = "%";
-            this.btnModulo.UseVisualStyleBackColor = true;
+            this.btnModulo.UseVisualStyleBackColor = false;
             this.btnModulo.Click += new System.EventHandler(this.button19_Click);
             // 
             // lblHistorial
@@ -296,13 +294,35 @@
             this.lblHistorial.TabIndex = 23;
             this.lblHistorial.Click += new System.EventHandler(this.label2_Click);
             // 
+            // btnBorrar
+            // 
+            this.btnBorrar.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.btnBorrar.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBorrar.Location = new System.Drawing.Point(200, 131);
+            this.btnBorrar.Name = "btnBorrar";
+            this.btnBorrar.Size = new System.Drawing.Size(52, 46);
+            this.btnBorrar.TabIndex = 22;
+            this.btnBorrar.Text = "<";
+            this.btnBorrar.UseVisualStyleBackColor = false;
+            this.btnBorrar.Click += new System.EventHandler(this.button16_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(40, 9);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(0, 13);
+            this.label2.TabIndex = 24;
+            this.label2.Click += new System.EventHandler(this.label2_Click_1);
+            // 
             // Form1
             // 
             this.AccessibleRole = System.Windows.Forms.AccessibleRole.Window;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.ClientSize = new System.Drawing.Size(278, 429);
+            this.ClientSize = new System.Drawing.Size(271, 429);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.lblHistorial);
             this.Controls.Add(this.btnBorrar);
             this.Controls.Add(this.btnDivision);
@@ -353,11 +373,12 @@
         private System.Windows.Forms.Button btnResta;
         private System.Windows.Forms.Button btnSuma;
         private System.Windows.Forms.Button btnResultado;
-        private System.Windows.Forms.Button btnBorrar;
         private System.Windows.Forms.Button btnDivision;
         private System.Windows.Forms.Button btnReset;
         private System.Windows.Forms.Button btnModulo;
         private System.Windows.Forms.Label lblHistorial;
+        private System.Windows.Forms.Button btnBorrar;
+        private System.Windows.Forms.Label label2;
     }
 }
 
