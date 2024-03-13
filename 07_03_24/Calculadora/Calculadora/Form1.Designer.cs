@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
             this.cajaResultado = new System.Windows.Forms.TextBox();
             this.btnUno = new System.Windows.Forms.Button();
             this.btnTres = new System.Windows.Forms.Button();
@@ -51,37 +50,29 @@
             this.lblHistorial = new System.Windows.Forms.Label();
             this.btnBorrar = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label3 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // label1
-            // 
-            this.label1.AccessibleRole = System.Windows.Forms.AccessibleRole.Window;
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.label1.Font = new System.Drawing.Font("Arial Narrow", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label1.Location = new System.Drawing.Point(97, 9);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(84, 29);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "SENATI";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // cajaResultado
             // 
-            this.cajaResultado.Location = new System.Drawing.Point(23, 80);
+            this.cajaResultado.BackColor = System.Drawing.SystemColors.InfoText;
+            this.cajaResultado.ForeColor = System.Drawing.SystemColors.InactiveBorder;
+            this.cajaResultado.Location = new System.Drawing.Point(12, 43);
             this.cajaResultado.Multiline = true;
             this.cajaResultado.Name = "cajaResultado";
-            this.cajaResultado.Size = new System.Drawing.Size(227, 42);
+            this.cajaResultado.Size = new System.Drawing.Size(207, 42);
             this.cajaResultado.TabIndex = 1;
             this.cajaResultado.TextChanged += new System.EventHandler(this.cajaResultado_TextChanged);
             // 
             // btnUno
             // 
+            this.btnUno.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnUno.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnUno.Location = new System.Drawing.Point(23, 297);
+            this.btnUno.Location = new System.Drawing.Point(12, 229);
             this.btnUno.Name = "btnUno";
-            this.btnUno.Size = new System.Drawing.Size(52, 46);
+            this.btnUno.Size = new System.Drawing.Size(53, 46);
             this.btnUno.TabIndex = 4;
             this.btnUno.Text = "1";
             this.btnUno.UseVisualStyleBackColor = true;
@@ -89,8 +80,9 @@
             // 
             // btnTres
             // 
+            this.btnTres.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTres.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTres.Location = new System.Drawing.Point(140, 297);
+            this.btnTres.Location = new System.Drawing.Point(115, 229);
             this.btnTres.Name = "btnTres";
             this.btnTres.Size = new System.Drawing.Size(52, 46);
             this.btnTres.TabIndex = 5;
@@ -100,8 +92,9 @@
             // 
             // btnDos
             // 
+            this.btnDos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDos.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDos.Location = new System.Drawing.Point(81, 297);
+            this.btnDos.Location = new System.Drawing.Point(63, 229);
             this.btnDos.Name = "btnDos";
             this.btnDos.Size = new System.Drawing.Size(52, 46);
             this.btnDos.TabIndex = 6;
@@ -111,8 +104,9 @@
             // 
             // btnCinco
             // 
+            this.btnCinco.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCinco.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCinco.Location = new System.Drawing.Point(81, 237);
+            this.btnCinco.Location = new System.Drawing.Point(115, 183);
             this.btnCinco.Name = "btnCinco";
             this.btnCinco.Size = new System.Drawing.Size(52, 46);
             this.btnCinco.TabIndex = 9;
@@ -122,8 +116,9 @@
             // 
             // btnSeis
             // 
+            this.btnSeis.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSeis.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSeis.Location = new System.Drawing.Point(140, 237);
+            this.btnSeis.Location = new System.Drawing.Point(63, 183);
             this.btnSeis.Name = "btnSeis";
             this.btnSeis.Size = new System.Drawing.Size(52, 46);
             this.btnSeis.TabIndex = 8;
@@ -133,10 +128,11 @@
             // 
             // btncuatro
             // 
+            this.btncuatro.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btncuatro.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btncuatro.Location = new System.Drawing.Point(23, 237);
+            this.btncuatro.Location = new System.Drawing.Point(12, 183);
             this.btncuatro.Name = "btncuatro";
-            this.btncuatro.Size = new System.Drawing.Size(52, 46);
+            this.btncuatro.Size = new System.Drawing.Size(53, 46);
             this.btncuatro.TabIndex = 7;
             this.btncuatro.Text = "4";
             this.btncuatro.UseVisualStyleBackColor = true;
@@ -144,8 +140,9 @@
             // 
             // btnOcho
             // 
+            this.btnOcho.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOcho.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnOcho.Location = new System.Drawing.Point(81, 182);
+            this.btnOcho.Location = new System.Drawing.Point(63, 137);
             this.btnOcho.Name = "btnOcho";
             this.btnOcho.Size = new System.Drawing.Size(52, 46);
             this.btnOcho.TabIndex = 12;
@@ -155,8 +152,9 @@
             // 
             // btnNueve
             // 
+            this.btnNueve.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNueve.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnNueve.Location = new System.Drawing.Point(140, 182);
+            this.btnNueve.Location = new System.Drawing.Point(115, 137);
             this.btnNueve.Name = "btnNueve";
             this.btnNueve.Size = new System.Drawing.Size(52, 46);
             this.btnNueve.TabIndex = 11;
@@ -166,8 +164,9 @@
             // 
             // btnSiete
             // 
+            this.btnSiete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSiete.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSiete.Location = new System.Drawing.Point(23, 182);
+            this.btnSiete.Location = new System.Drawing.Point(12, 137);
             this.btnSiete.Name = "btnSiete";
             this.btnSiete.Size = new System.Drawing.Size(52, 46);
             this.btnSiete.TabIndex = 10;
@@ -177,10 +176,11 @@
             // 
             // btnCero
             // 
+            this.btnCero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCero.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCero.Location = new System.Drawing.Point(23, 350);
+            this.btnCero.Location = new System.Drawing.Point(12, 275);
             this.btnCero.Name = "btnCero";
-            this.btnCero.Size = new System.Drawing.Size(52, 46);
+            this.btnCero.Size = new System.Drawing.Size(53, 46);
             this.btnCero.TabIndex = 13;
             this.btnCero.Text = "0";
             this.btnCero.UseVisualStyleBackColor = true;
@@ -188,10 +188,11 @@
             // 
             // btnPunto
             // 
+            this.btnPunto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPunto.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPunto.Location = new System.Drawing.Point(81, 349);
+            this.btnPunto.Location = new System.Drawing.Point(63, 275);
             this.btnPunto.Name = "btnPunto";
-            this.btnPunto.Size = new System.Drawing.Size(52, 46);
+            this.btnPunto.Size = new System.Drawing.Size(54, 46);
             this.btnPunto.TabIndex = 14;
             this.btnPunto.Text = ".";
             this.btnPunto.UseVisualStyleBackColor = true;
@@ -199,9 +200,10 @@
             // 
             // btnMultiplicar
             // 
-            this.btnMultiplicar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btnMultiplicar.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnMultiplicar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMultiplicar.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMultiplicar.Location = new System.Drawing.Point(200, 185);
+            this.btnMultiplicar.Location = new System.Drawing.Point(167, 137);
             this.btnMultiplicar.Name = "btnMultiplicar";
             this.btnMultiplicar.Size = new System.Drawing.Size(52, 46);
             this.btnMultiplicar.TabIndex = 15;
@@ -211,9 +213,10 @@
             // 
             // btnResta
             // 
-            this.btnResta.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btnResta.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnResta.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResta.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnResta.Location = new System.Drawing.Point(198, 237);
+            this.btnResta.Location = new System.Drawing.Point(167, 183);
             this.btnResta.Name = "btnResta";
             this.btnResta.Size = new System.Drawing.Size(52, 46);
             this.btnResta.TabIndex = 16;
@@ -223,11 +226,12 @@
             // 
             // btnSuma
             // 
-            this.btnSuma.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btnSuma.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnSuma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSuma.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSuma.Location = new System.Drawing.Point(198, 297);
+            this.btnSuma.Location = new System.Drawing.Point(167, 229);
             this.btnSuma.Name = "btnSuma";
-            this.btnSuma.Size = new System.Drawing.Size(52, 46);
+            this.btnSuma.Size = new System.Drawing.Size(51, 46);
             this.btnSuma.TabIndex = 17;
             this.btnSuma.Text = "+";
             this.btnSuma.UseVisualStyleBackColor = false;
@@ -235,11 +239,12 @@
             // 
             // btnResultado
             // 
-            this.btnResultado.BackColor = System.Drawing.SystemColors.Highlight;
+            this.btnResultado.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnResultado.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResultado.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnResultado.Location = new System.Drawing.Point(140, 350);
+            this.btnResultado.Location = new System.Drawing.Point(115, 275);
             this.btnResultado.Name = "btnResultado";
-            this.btnResultado.Size = new System.Drawing.Size(110, 46);
+            this.btnResultado.Size = new System.Drawing.Size(103, 46);
             this.btnResultado.TabIndex = 18;
             this.btnResultado.Text = "=";
             this.btnResultado.UseVisualStyleBackColor = false;
@@ -247,9 +252,10 @@
             // 
             // btnDivision
             // 
-            this.btnDivision.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btnDivision.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnDivision.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDivision.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDivision.Location = new System.Drawing.Point(81, 128);
+            this.btnDivision.Location = new System.Drawing.Point(63, 92);
             this.btnDivision.Name = "btnDivision";
             this.btnDivision.Size = new System.Drawing.Size(52, 46);
             this.btnDivision.TabIndex = 21;
@@ -259,9 +265,10 @@
             // 
             // btnReset
             // 
-            this.btnReset.BackColor = System.Drawing.SystemColors.Highlight;
+            this.btnReset.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnReset.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnReset.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReset.Location = new System.Drawing.Point(140, 130);
+            this.btnReset.Location = new System.Drawing.Point(115, 92);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(52, 46);
             this.btnReset.TabIndex = 20;
@@ -271,9 +278,10 @@
             // 
             // btnModulo
             // 
-            this.btnModulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.btnModulo.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnModulo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnModulo.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnModulo.Location = new System.Drawing.Point(23, 128);
+            this.btnModulo.Location = new System.Drawing.Point(12, 92);
             this.btnModulo.Name = "btnModulo";
             this.btnModulo.Size = new System.Drawing.Size(52, 46);
             this.btnModulo.TabIndex = 19;
@@ -288,7 +296,7 @@
             this.lblHistorial.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.lblHistorial.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHistorial.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblHistorial.Location = new System.Drawing.Point(31, 43);
+            this.lblHistorial.Location = new System.Drawing.Point(21, 7);
             this.lblHistorial.Name = "lblHistorial";
             this.lblHistorial.Size = new System.Drawing.Size(0, 23);
             this.lblHistorial.TabIndex = 23;
@@ -296,9 +304,10 @@
             // 
             // btnBorrar
             // 
-            this.btnBorrar.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.btnBorrar.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnBorrar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnBorrar.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBorrar.Location = new System.Drawing.Point(200, 131);
+            this.btnBorrar.Location = new System.Drawing.Point(167, 92);
             this.btnBorrar.Name = "btnBorrar";
             this.btnBorrar.Size = new System.Drawing.Size(52, 46);
             this.btnBorrar.TabIndex = 22;
@@ -315,13 +324,36 @@
             this.label2.TabIndex = 24;
             this.label2.Click += new System.EventHandler(this.label2_Click_1);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Calculadora.Properties.Resources.images1;
+            this.pictureBox1.Location = new System.Drawing.Point(111, 320);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(45, 25);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 25;
+            this.pictureBox1.TabStop = false;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Arial Black", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.Blue;
+            this.label3.Location = new System.Drawing.Point(145, 324);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(73, 22);
+            this.label3.TabIndex = 26;
+            this.label3.Text = "SENATI";
+            // 
             // Form1
             // 
             this.AccessibleRole = System.Windows.Forms.AccessibleRole.Window;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.ClientSize = new System.Drawing.Size(271, 429);
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ClientSize = new System.Drawing.Size(232, 354);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lblHistorial);
             this.Controls.Add(this.btnBorrar);
@@ -344,19 +376,17 @@
             this.Controls.Add(this.btnTres);
             this.Controls.Add(this.btnUno);
             this.Controls.Add(this.cajaResultado);
-            this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Form1";
             this.Text = "Calculadora";
             this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox cajaResultado;
         private System.Windows.Forms.Button btnUno;
         private System.Windows.Forms.Button btnTres;
@@ -379,6 +409,8 @@
         private System.Windows.Forms.Label lblHistorial;
         private System.Windows.Forms.Button btnBorrar;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label3;
     }
 }
 
