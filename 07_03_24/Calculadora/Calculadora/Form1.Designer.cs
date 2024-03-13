@@ -231,7 +231,7 @@
             this.btnSuma.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSuma.Location = new System.Drawing.Point(167, 229);
             this.btnSuma.Name = "btnSuma";
-            this.btnSuma.Size = new System.Drawing.Size(51, 46);
+            this.btnSuma.Size = new System.Drawing.Size(52, 46);
             this.btnSuma.TabIndex = 17;
             this.btnSuma.Text = "+";
             this.btnSuma.UseVisualStyleBackColor = false;
@@ -244,7 +244,7 @@
             this.btnResultado.Font = new System.Drawing.Font("Arial Narrow", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResultado.Location = new System.Drawing.Point(115, 275);
             this.btnResultado.Name = "btnResultado";
-            this.btnResultado.Size = new System.Drawing.Size(103, 46);
+            this.btnResultado.Size = new System.Drawing.Size(104, 46);
             this.btnResultado.TabIndex = 18;
             this.btnResultado.Text = "=";
             this.btnResultado.UseVisualStyleBackColor = false;
@@ -327,7 +327,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Calculadora.Properties.Resources.images1;
-            this.pictureBox1.Location = new System.Drawing.Point(111, 320);
+            this.pictureBox1.Location = new System.Drawing.Point(115, 322);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(45, 25);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -339,7 +339,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial Black", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Blue;
-            this.label3.Location = new System.Drawing.Point(145, 324);
+            this.label3.Location = new System.Drawing.Point(149, 324);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(73, 22);
             this.label3.TabIndex = 26;
