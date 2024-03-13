@@ -91,20 +91,6 @@ namespace Calculadora
 
         private void button16_Click(object sender, EventArgs e)
         {
-            if (cajaResultado.Text.Length > 1)
-            {
-                string.txtResultado = cajaResultado.Text;
-                txtResultado = txtResultado.Substring(0, txtResultado.Length - 1);
-
-                if (txtResultado.Length == 1 && txtResultado.contains("-"))
-                {
-                    cajaResultado.Text = "0";
-                }
-
-                else
-                {
-                    txtResultado.Text = cajaResultado.Text;
-
                 }
 
             }
