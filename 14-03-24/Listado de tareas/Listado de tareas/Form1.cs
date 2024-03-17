@@ -72,6 +72,7 @@ namespace Listado_de_tareas
 
         private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
         {
+        //funcionabilidades del calendario
             CargarFecha();
         }
 
@@ -102,6 +103,7 @@ namespace Listado_de_tareas
 
         private void button2_Click(object sender, EventArgs e)
         {
+         //Booton de eliminar tarea : Elimina las tareas del dia de acuerdo a la fecha 
             DateTime fechaSeleccionada = dateTimePickerVencimiento.Value;
             string fecha = fechaSeleccionada.Year.ToString() + fechaSeleccionada.Month.ToString() + fechaSeleccionada.Day.ToString();
 
@@ -125,6 +127,8 @@ namespace Listado_de_tareas
 
         private void button4_Click(object sender, EventArgs e)
         {
+        // Booton de tareas pendientes:Muestra las tareas no realizadas
+
             StringBuilder tareasPendientes = new StringBuilder();
             DateTime fechaSeleccionada = monthCalendar1.SelectionStart;
             string fecha = fechaSeleccionada.Year.ToString() + fechaSeleccionada.Month.ToString() + fechaSeleccionada.Day.ToString();
@@ -155,6 +159,8 @@ namespace Listado_de_tareas
 
         private void button3_Click(object sender, EventArgs e)
         {
+        //Booton de exportar tarea : Exporta las tarea que realizaste en un block de notas
+
             SaveFileDialog saveFileDialog = new SaveFileDialog();
             saveFileDialog.Filter = "Archivos de texto (*.txt)|*.txt";
             saveFileDialog.Title = "Exportar actividades";
@@ -175,11 +181,18 @@ namespace Listado_de_tareas
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+        //Booton de Tareas completadas: Tacha las tareas realizadas
+
             int rowIndex = dataGridView1.CurrentCell.RowIndex;
             dataGridView1.Rows[rowIndex].DefaultCellStyle.Font = new Font(dataGridView1.Font, FontStyle.Strikeout);
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
