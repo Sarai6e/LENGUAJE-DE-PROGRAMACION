@@ -1,22 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\",
+  "WorkspaceRootPath": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{345A9889-71D7-49FE-ADA3-46E401A0FAD0}|Listado de tareas\\Listado de tareas.csproj|c:\\users\\sarai\\onedrive\\documentos\\lenguaje-_de_programaci-n\\14-03-24\\listado de tareas\\listado de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{345A9889-71D7-49FE-ADA3-46E401A0FAD0}|Listado de tareas\\Listado de tareas.csproj|c:\\users\\sarai\\downloads\\lenguaje-_de_programaci-n\\14-03-24\\listado de tareas\\listado de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{345A9889-71D7-49FE-ADA3-46E401A0FAD0}|Listado de tareas\\Listado de tareas.csproj|solutionrelative:listado de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{345A9889-71D7-49FE-ADA3-46E401A0FAD0}|Listado de tareas\\Listado de tareas.csproj|c:\\users\\sarai\\onedrive\\documentos\\lenguaje-_de_programaci-n\\14-03-24\\listado de tareas\\listado de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{345A9889-71D7-49FE-ADA3-46E401A0FAD0}|Listado de tareas\\Listado de tareas.csproj|c:\\users\\sarai\\downloads\\lenguaje-_de_programaci-n\\14-03-24\\listado de tareas\\listado de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{345A9889-71D7-49FE-ADA3-46E401A0FAD0}|Listado de tareas\\Listado de tareas.csproj|solutionrelative:listado de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\2024314||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Listado de tareas||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\2024314||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Listado de tareas\\bin\\Debug\\2024314||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\20241022||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\20241022||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Listado de tareas\\bin\\Debug\\20241022||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{345A9889-71D7-49FE-ADA3-46E401A0FAD0}|Listado de tareas\\Listado de tareas.csproj|c:\\users\\sarai\\downloads\\lenguaje-_de_programaci-n\\14-03-24\\listado de tareas\\listado de tareas\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{345A9889-71D7-49FE-ADA3-46E401A0FAD0}|Listado de tareas\\Listado de tareas.csproj|solutionrelative:listado de tareas\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +33,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Form1.cs",
+              "RelativeDocumentMoniker": "Listado de tareas\\Form1.cs",
+              "ToolTip": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Form1.cs",
+              "RelativeToolTip": "Listado de tareas\\Form1.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAmwLcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:58:49.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listado de tareas",
+              "DocumentMoniker": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Listado de tareas.csproj",
+              "RelativeDocumentMoniker": "Listado de tareas\\Listado de tareas.csproj",
+              "ToolTip": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Listado de tareas.csproj",
+              "RelativeToolTip": "Listado de tareas\\Listado de tareas.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-17T13:33:57.679Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Form1.cs",
               "RelativeDocumentMoniker": "Listado de tareas\\Form1.cs",
-              "ToolTip": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Listado de tareas\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T17:03:59.192Z",
@@ -42,42 +74,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Form1.cs",
-              "RelativeDocumentMoniker": "Listado de tareas\\Form1.cs",
-              "ToolTip": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\Form1.cs",
-              "RelativeToolTip": "Listado de tareas\\Form1.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAAAF8AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T21:37:46.114Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "20241022",
+              "DocumentMoniker": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\20241022",
+              "RelativeDocumentMoniker": "Listado de tareas\\bin\\Debug\\20241022",
+              "ToolTip": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\20241022",
+              "RelativeToolTip": "Listado de tareas\\bin\\Debug\\20241022",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-14T17:50:50.715Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20241022",
-              "DocumentMoniker": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\20241022",
-              "RelativeDocumentMoniker": "Listado de tareas\\bin\\Debug\\20241022",
-              "ToolTip": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\20241022",
-              "RelativeToolTip": "Listado de tareas\\bin\\Debug\\20241022",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-14T17:50:50.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "2024314",
-              "DocumentMoniker": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\2024314",
+              "DocumentMoniker": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\2024314",
               "RelativeDocumentMoniker": "Listado de tareas\\bin\\Debug\\2024314",
-              "ToolTip": "C:\\Users\\sarai\\OneDrive\\Documentos\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\2024314",
+              "ToolTip": "C:\\Users\\sarai\\Downloads\\LENGUAJE-_DE_PROGRAMACI-N\\14-03-24\\Listado de tareas\\Listado de tareas\\bin\\Debug\\2024314",
               "RelativeToolTip": "Listado de tareas\\bin\\Debug\\2024314",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-14T17:45:02.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T17:45:02.514Z"
             }
           ]
         }

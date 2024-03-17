@@ -179,7 +179,11 @@ namespace Listado_de_tareas
             dataGridView1.Rows[rowIndex].DefaultCellStyle.Font = new Font(dataGridView1.Font, FontStyle.Strikeout);
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
+    }
     }
 
 

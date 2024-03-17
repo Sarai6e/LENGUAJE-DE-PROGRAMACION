@@ -18,3 +18,13 @@ C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de
 C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado de tareas.csproj.CoreCompileInputs.cache
 C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado de tareas.exe
 C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado de tareas.pdb
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\bin\Debug\Listado de tareas.exe.config
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\bin\Debug\Listado de tareas.exe
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\bin\Debug\Listado de tareas.pdb
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado de tareas.csproj.AssemblyReference.cache
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado_de_tareas.Form1.resources
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado_de_tareas.Properties.Resources.resources
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado de tareas.csproj.GenerateResource.cache
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado de tareas.csproj.CoreCompileInputs.cache
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado de tareas.exe
+C:\Users\sarai\Downloads\LENGUAJE-_DE_PROGRAMACI-N\14-03-24\Listado de tareas\Listado de tareas\obj\Debug\Listado de tareas.pdb
