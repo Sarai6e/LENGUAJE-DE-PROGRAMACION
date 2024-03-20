@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|c:\\users\\alumno\\documents\\lenguaje-_de_programaci-n\\20_03_24\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\Login\\Form1.cs",
+              "RelativeToolTip": "Login\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:54:09.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\Login\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:34:27.806Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
