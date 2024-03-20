@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|c:\\users\\alumno\\documents\\lenguaje-_de_programaci-n\\20_03_24\\login\\login\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|solutionrelative:login\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\login\\contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|solutionrelative:login\\contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|c:\\users\\alumno\\documents\\lenguaje-_de_programaci-n\\20_03_24\\login\\login\\contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|solutionrelative:login\\contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\login\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3203CD3F-DDA0-4709-9343-D17288A3F02B}|Login\\Login.csproj|solutionrelative:login\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,27 +30,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "contrase\u00F1a.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\Login\\contrase\u00F1a.cs",
               "RelativeDocumentMoniker": "Login\\contrase\u00F1a.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\Login\\contrase\u00F1a.cs [Dise\u00F1o]",
               "RelativeToolTip": "Login\\contrase\u00F1a.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:44:54.263Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-03-20T17:44:54.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Registrar.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\Login\\Registrar.cs",
               "RelativeDocumentMoniker": "Login\\Registrar.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\20_03_24\\Login\\Login\\Registrar.cs [Dise\u00F1o]",
               "RelativeToolTip": "Login\\Registrar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T17:40:22.123Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-03-20T17:40:22.123Z"
             },
             {
               "$type": "Document",
