@@ -1,0 +1,13 @@
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.Form1.resources
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.Properties.Resources.resources
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.csproj.GenerateResource.cache
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\bin\Debug\login_01.exe.config
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\bin\Debug\login_01.exe
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\bin\Debug\login_01.pdb
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.exe
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.pdb
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.nuevo_usuario.resources
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.Welcome.resources
+C:\Users\Alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\20_03_24\login_01\login_01\obj\Debug\login_01.recupear_contraseña.resources
