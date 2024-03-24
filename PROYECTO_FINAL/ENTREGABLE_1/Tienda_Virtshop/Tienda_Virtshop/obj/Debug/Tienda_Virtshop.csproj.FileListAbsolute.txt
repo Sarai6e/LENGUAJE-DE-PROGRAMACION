@@ -1,0 +1,10 @@
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\bin\Debug\Tienda_Virtshop.exe.config
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\bin\Debug\Tienda_Virtshop.exe
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\bin\Debug\Tienda_Virtshop.pdb
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.csproj.AssemblyReference.cache
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.Form1.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.Properties.Resources.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.csproj.GenerateResource.cache
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.csproj.CoreCompileInputs.cache
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.exe
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.pdb
