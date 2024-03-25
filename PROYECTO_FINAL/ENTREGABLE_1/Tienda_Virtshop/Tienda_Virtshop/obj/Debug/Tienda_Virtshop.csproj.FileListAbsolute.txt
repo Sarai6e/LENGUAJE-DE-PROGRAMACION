@@ -8,3 +8,11 @@ C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTR
 C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.csproj.CoreCompileInputs.cache
 C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.exe
 C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.pdb
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.agregar__ver_editar_y_elminar.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.Agregar.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.bienvenida.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.contraseña.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.login.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.registar.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.Editar.resources
+C:\Users\sarai\OneDrive\Documentos\LENGUAJE-_DE_PROGRAMACI-N\PROYECTO_FINAL\ENTREGABLE_1\Tienda_Virtshop\Tienda_Virtshop\obj\Debug\Tienda_Virtshop.vercs.resources
