@@ -1,0 +1,8 @@
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\27_03_24\Usuarios\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\27_03_24\Usuarios\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\27_03_24\Usuarios\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\27_03_24\Usuarios\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\27_03_24\Usuarios\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\27_03_24\Usuarios\Usuarios\obj\Debug\net8.0\Usuarios.RazorAssemblyInfo.cache
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\27_03_24\Usuarios\Usuarios\obj\Debug\net8.0\Usuarios.RazorAssemblyInfo.cs
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\27_03_24\Usuarios\Usuarios\obj\Debug\net8.0\Usuarios.sourcelink.json

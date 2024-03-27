@@ -1,0 +1,41 @@
+﻿@model List<Aplicacion.Models.Empleado>
+
+@{
+    ViewData["Title"] = "Lista de Empleados";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create">Crear Nuevo Empleado</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>DNI</th>
+            <th>Cargo</th>
+            <th>Número Celular</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Domicilio</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var empleado in Model)
+        {
+            <tr>
+                <td>@empleado.IdEmpleado</td>
+                <td>@empleado.Nombre</td>
+                <td>@empleado.Apellido</td>
+                <td>@empleado.DNI</td>
+                <td>@empleado.Cargo</td>
+                <td>@empleado.NumeroCelular</td>
+                <td>@empleado.FechaNacimiento.ToShortDateString()</td>
+                <td>@empleado.Domicilio</td>
+            </tr>
+        }
+    </tbody>
+</table>
