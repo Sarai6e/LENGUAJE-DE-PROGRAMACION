@@ -1,0 +1,46 @@
+﻿@model Aplicacion.Models.EmpleadoController
+
+@{
+    ViewData["Title"] = "Crear Nuevo Empleado";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Apellido"></label>
+        <input asp-for="Apellido" class="form-control" />
+        <span asp-validation-for="Apellido" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DNI"></label>
+        <input asp-for="DNI" class="form-control" />
+        <span asp-validation-for="DNI" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cargo"></label>
+        <input asp-for="Cargo" class="form-control" />
+        <span asp-validation-for="Cargo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="NumeroCelular"></label>
+        <input asp-for="NumeroCelular" class="form-control" />
+        <span asp-validation-for="NumeroCelular" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="FechaNacimiento"></label>
+        <input asp-for="FechaNacimiento" class="form-control" />
+        <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Domicilio"></label>
+        <input asp-for="Domicilio" class="form-control" />
+        <span asp-validation-for="Domicilio" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
