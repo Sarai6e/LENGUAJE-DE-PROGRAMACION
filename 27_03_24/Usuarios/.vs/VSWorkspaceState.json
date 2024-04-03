@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Usuarios",
+    "\\Usuarios\\Controllers",
     "\\Usuarios\\Models",
     "\\Usuarios\\Properties",
     "\\Usuarios\\Views",
     "\\Usuarios\\Views\\Home"
   ],
-  "SelectedNode": "\\Usuarios\\appsettings.json",
+  "SelectedNode": "\\Usuarios.sln",
   "PreviewInSolutionExplorer": false
 }
