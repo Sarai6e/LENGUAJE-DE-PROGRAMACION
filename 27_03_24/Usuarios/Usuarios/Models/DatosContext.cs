@@ -1,72 +1,77 @@
 ﻿using System;
-using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace Usuarios.Models;
-
-public partial class DatosContext : DbContext
+namespace Usuarios.Models
 {
-    public DatosContext()
+    public partial class DatosContext : DbContext
     {
-    }
-
-    public DatosContext(DbContextOptions<DatosContext> options)
-        : base(options)
-    {
-    }
-
-    public virtual DbSet<Empleado> Empleados { get; set; }
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("server= (localDb)\\senati; database=Datos; integrated security=true");
-
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
-    {
-        modelBuilder.Entity<Empleado>(entity =>
+        public DatosContext()
         {
-            entity.HasKey(e => e.IdEmpleado).HasName("PK__empleado__FC29D6F64922E65C");
+        }
 
-            entity.ToTable("empleados");
+        public DatosContext(DbContextOptions<DatosContext> options)
+            : base(options)
+        {
+        }
 
-            entity.Property(e => e.IdEmpleado)
-                .ValueGeneratedNever()
-                .HasColumnName("ID_empleado");
-            entity.Property(e => e.Apellido)
-                .HasMaxLength(50)
-                .IsUnicode(false)
-                .HasColumnName("apellido");
-            entity.Property(e => e.Cargo)
-                .HasMaxLength(50)
-                .IsUnicode(false)
-                .HasColumnName("cargo");
-            entity.Property(e => e.CorreoElectronico)
-                .HasMaxLength(50)
-                .IsUnicode(false)
-                .HasColumnName("correo_electronico");
-            entity.Property(e => e.Departamento)
-                .HasMaxLength(50)
-                .IsUnicode(false)
-                .HasColumnName("departamento");
-            entity.Property(e => e.FechaContratacion)
-                .HasDefaultValueSql("(getdate())")
-                .HasColumnType("datetime")
-                .HasColumnName("fecha_contratacion");
-            entity.Property(e => e.Nombre)
-                .HasMaxLength(50)
-                .IsUnicode(false)
-                .HasColumnName("nombre");
-            entity.Property(e => e.Salario)
-                .HasColumnType("decimal(10, 2)")
-                .HasColumnName("salario");
-        });
+        public virtual DbSet<Empleado> Empleados { get; set; }
 
-        OnModelCreatingPartial(modelBuilder);
-    }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer("Server=(localDb)\\senati;Database=Datos;Integrated Security=True;");
+            }
+        }
 
-    partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Empleado>(entity =>
+            {
+                entity.HasKey(e => e.IdEmpleado).HasName("PK__empleado__FC29D6F64922E65C");
 
-    internal class cs
-    {
+                entity.ToTable("empleados");
+
+                entity.Property(e => e.IdEmpleado)
+                    .HasColumnName("Idempleado");
+
+                entity.Property(e => e.Nombre)
+                    .IsRequired()
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Apellido)
+                    .IsRequired()
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.DNI)
+                    .IsRequired()
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Cargo)
+                    .IsRequired()
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.NumeroCelular)
+                    .IsRequired()
+                    .HasMaxLength(50)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.FechaNacimiento)
+                    .HasColumnType("date");
+
+                entity.Property(e => e.Domicilio)
+                    .IsRequired()
+                    .HasMaxLength(100)
+                    .IsUnicode(false);
+            });
+
+            OnModelCreatingPartial(modelBuilder);
+        }
+
+        partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
     }
 }

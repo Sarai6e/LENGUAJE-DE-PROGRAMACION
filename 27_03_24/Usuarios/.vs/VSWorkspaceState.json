@@ -6,8 +6,9 @@
     "\\Usuarios\\Models",
     "\\Usuarios\\Properties",
     "\\Usuarios\\Views",
+    "\\Usuarios\\Views\\Empleado",
     "\\Usuarios\\Views\\Home"
   ],
-  "SelectedNode": "\\Usuarios.sln",
+  "SelectedNode": "\\Usuarios\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

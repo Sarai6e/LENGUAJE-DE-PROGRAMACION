@@ -1,30 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
 using Usuarios.Models;
 
 namespace Usuarios.Controllers
 {
-    public class EmpleadoesController : Controller
+    public class EmpleadosController : Controller
     {
         private readonly DatosContext _context;
 
-        public EmpleadoesController(DatosContext context)
+        public EmpleadosController(DatosContext context)
         {
             _context = context;
         }
 
-        // GET: Empleadoes
+        // GET: Empleados
         public async Task<IActionResult> Index()
         {
             return View(await _context.Empleados.ToListAsync());
         }
 
-        // GET: Empleadoes/Details/5
+        // GET: Empleados/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -32,8 +29,7 @@ namespace Usuarios.Controllers
                 return NotFound();
             }
 
-            var empleado = await _context.Empleados
-                .FirstOrDefaultAsync(m => m.IdEmpleado == id);
+            var empleado = await _context.Empleados.FirstOrDefaultAsync(m => m.IdEmpleado == id);
             if (empleado == null)
             {
                 return NotFound();
@@ -42,15 +38,13 @@ namespace Usuarios.Controllers
             return View(empleado);
         }
 
-        // GET: Empleadoes/Create
+        // GET: Empleados/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Empleadoes/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // POST: Empleados/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("IdEmpleado,Nombre,Apellido,CorreoElectronico,Departamento,Cargo,FechaContratacion,Salario")] Empleado empleado)
@@ -64,7 +58,7 @@ namespace Usuarios.Controllers
             return View(empleado);
         }
 
-        // GET: Empleadoes/Edit/5
+        // GET: Empleados/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -80,9 +74,7 @@ namespace Usuarios.Controllers
             return View(empleado);
         }
 
-        // POST: Empleadoes/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // POST: Empleados/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("IdEmpleado,Nombre,Apellido,CorreoElectronico,Departamento,Cargo,FechaContratacion,Salario")] Empleado empleado)
@@ -115,7 +107,7 @@ namespace Usuarios.Controllers
             return View(empleado);
         }
 
-        // GET: Empleadoes/Delete/5
+        // GET: Empleados/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -123,8 +115,7 @@ namespace Usuarios.Controllers
                 return NotFound();
             }
 
-            var empleado = await _context.Empleados
-                .FirstOrDefaultAsync(m => m.IdEmpleado == id);
+            var empleado = await _context.Empleados.FirstOrDefaultAsync(m => m.IdEmpleado == id);
             if (empleado == null)
             {
                 return NotFound();
@@ -133,7 +124,7 @@ namespace Usuarios.Controllers
             return View(empleado);
         }
 
-        // POST: Empleadoes/Delete/5
+        // POST: Empleados/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

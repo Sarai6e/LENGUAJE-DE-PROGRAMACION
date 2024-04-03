@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|c:\\users\\alumno\\documents\\lenguaje-_de_programaci-n\\27_03_24\\usuarios\\usuarios\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\usuarios\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:usuarios\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Views\\Empleado\\Index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Views\\Empleado\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\DatosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Models\\DatosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Views\\Empleado\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\Empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Models\\Empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Views\\Empleado\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Views\\Empleado\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Views\\Empleado\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Views\\Empleado\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\Empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Models\\Empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Views\\Empleado\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\DatosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Models\\DatosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Views\\Empleado\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF3B4330-825C-45A5-BB8F-19E482703C7D}|Usuarios\\Usuarios.csproj|solutionrelative:Usuarios\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Usuarios\\Views\\Empleado\\Index.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,51 +62,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Index.cshtml",
               "RelativeDocumentMoniker": "Usuarios\\Views\\Empleado\\Index.cshtml",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Index.cshtml",
               "RelativeToolTip": "Usuarios\\Views\\Empleado\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T16:16:19.972Z"
+              "WhenOpened": "2024-04-03T16:16:19.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Edit.cshtml",
               "RelativeDocumentMoniker": "Usuarios\\Views\\Empleado\\Edit.cshtml",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Edit.cshtml",
               "RelativeToolTip": "Usuarios\\Views\\Empleado\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T16:15:05.993Z"
+              "WhenOpened": "2024-04-03T16:15:05.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Details.cshtml",
               "RelativeDocumentMoniker": "Usuarios\\Views\\Empleado\\Details.cshtml",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Details.cshtml",
               "RelativeToolTip": "Usuarios\\Views\\Empleado\\Details.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAgwDwAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T16:14:24.89Z"
+              "WhenOpened": "2024-04-03T16:14:24.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Delete.cshtml",
               "RelativeDocumentMoniker": "Usuarios\\Views\\Empleado\\Delete.cshtml",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Delete.cshtml",
               "RelativeToolTip": "Usuarios\\Views\\Empleado\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T16:13:23.893Z"
+              "WhenOpened": "2024-04-03T16:13:23.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,13 +120,14 @@
               "RelativeDocumentMoniker": "Usuarios\\Views\\Empleado\\Create.cshtml",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Views\\Empleado\\Create.cshtml",
               "RelativeToolTip": "Usuarios\\Views\\Empleado\\Create.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T16:12:24.69Z"
+              "WhenOpened": "2024-04-03T16:12:24.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Usuarios\\Models\\ErrorViewModel.cs",
@@ -130,43 +135,47 @@
               "RelativeToolTip": "Usuarios\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T16:11:10.071Z"
+              "WhenOpened": "2024-04-03T16:11:10.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\Empleado.cs",
               "RelativeDocumentMoniker": "Usuarios\\Models\\Empleado.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\Empleado.cs",
               "RelativeToolTip": "Usuarios\\Models\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T16:10:17.435Z"
+              "WhenOpened": "2024-04-03T16:10:17.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "DatosContext.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\DatosContext.cs",
               "RelativeDocumentMoniker": "Usuarios\\Models\\DatosContext.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Models\\DatosContext.cs",
               "RelativeToolTip": "Usuarios\\Models\\DatosContext.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEgAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T16:09:27.8Z"
+              "WhenOpened": "2024-04-03T16:09:27.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Usuarios\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Usuarios\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T16:08:30.539Z"
+              "WhenOpened": "2024-04-03T16:08:30.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -176,7 +185,7 @@
               "RelativeDocumentMoniker": "Usuarios\\appsettings.json",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\appsettings.json",
               "RelativeToolTip": "Usuarios\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-27T17:46:09.324Z",
               "EditorCaption": ""
@@ -189,7 +198,7 @@
               "RelativeDocumentMoniker": "Usuarios\\Controllers\\EmpleadoesController.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\LENGUAJE-_DE_PROGRAMACI-N\\27_03_24\\Usuarios\\Usuarios\\Controllers\\EmpleadoesController.cs",
               "RelativeToolTip": "Usuarios\\Controllers\\EmpleadoesController.cs",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAwwJwAAAAAAAAA",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAiwJMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T16:07:25.503Z",
               "EditorCaption": ""

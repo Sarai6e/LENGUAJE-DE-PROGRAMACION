@@ -7,65 +7,65 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Crear Nuevo</a>
 </p>
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Nombre)
+                Nombre
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Apellido)
+                Apellido
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CorreoElectronico)
+                DNI
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Departamento)
+                Cargo
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Cargo)
+                Número de Celular
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.FechaContratacion)
+                Fecha de Nacimiento
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Salario)
+                Domicilio
             </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
+@foreach (var empleado in empleados) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Nombre)
+                @empleado.Nombre
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Apellido)
+                @empleado.Apellido
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CorreoElectronico)
+                @empleado.DNI
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Departamento)
+                @empleado.Cargo
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Cargo)
+                @empleado.NumeroCelular
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.FechaContratacion)
+                @empleado.FechaNacimiento
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Salario)
+                @empleado.Domicilio
             </td>
             <td>
-                <a asp-action="Edit" class="btn btn-warning" asp-route-id="@item.IdEmpleado">Editar</a> |
-                    <0000000000000000000000000000000a asp-action="Details" class="btn btn-primary" asp-route-id="@item.IdEmpleado">Detalles</0000000000000000000000000000000a> |
-                    <a asp-action="Delete" class="btn btn-darger" asp-route-id="@item.IdEmpleado">eliminar</a>
+                <a asp-action="Edit" class="btn btn-warning" asp-route-id="@empleado.IdEmpleado">Editar</a> |
+                <a asp-action="Details" class="btn btn-primary" asp-route-id="@empleado.IdEmpleado">Detalles</a> |
+                <a asp-action="Delete" class="btn btn-danger" asp-route-id="@empleado.IdEmpleado">Eliminar</a>
             </td>
-        0</tr>
+        </tr>
 }
     </tbody>
 </table>

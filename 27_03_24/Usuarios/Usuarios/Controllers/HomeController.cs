@@ -1,21 +1,24 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
 using Usuarios.Models;
+using System.Diagnostics;
 
 namespace Usuarios.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly DatosContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, DatosContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var empleados = _context.Empleados.ToList();
+            return View(empleados);
         }
 
         public IActionResult Privacy()
