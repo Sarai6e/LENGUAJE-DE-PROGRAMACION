@@ -1,0 +1,16 @@
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\bin\Debug\netstandard2.0\MyPrimerApp.deps.json
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\bin\Debug\netstandard2.0\MyPrimerApp.dll
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\bin\Debug\netstandard2.0\ref\MyPrimerApp.dll
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\bin\Debug\netstandard2.0\MyPrimerApp.pdb
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MyPrimerApp.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MyPrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MyPrimerApp.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MyPrimerApp.AssemblyInfo.cs
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MyPrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MyPrimerApp.sourcelink.json
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MyPrimerApp.dll
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\refint\MyPrimerApp.dll
+C:\Users\alumno\Documents\LENGUAJE-_DE_PROGRAMACI-N\3_04_24\MyPrimerApp\MyPrimerApp\obj\Debug\netstandard2.0\MyPrimerApp.pdb
