@@ -1,16 +1,23 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace Aplicacion.Models
+namespace Usuarios.Models;
+
+public partial class Empleado
 {
-    public class Empleado
-    {
-        public int IdEmpleado { get; set; }
-        public string Nombre { get; set; }
-        public string Apellido { get; set; }
-        public string DNI { get; set; }
-        public string Cargo { get; set; }
-        public string NumeroCelular { get; set; }
-        public DateTime FechaNacimiento { get; set; }
-        public string Domicilio { get; set; }
-    }
+    public int IdEmpleado { get; set; }
+
+    public string? Nombre { get; set; }
+
+    public string? Apellido { get; set; }
+
+    public string? CorreoElectronico { get; set; }
+
+    public string? Departamento { get; set; }
+
+    public string? Cargo { get; set; }
+
+    public DateTime? FechaContratacion { get; set; }
+
+    public decimal? Salario { get; set; }
 }

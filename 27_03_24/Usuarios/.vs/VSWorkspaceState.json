@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Usuarios",
+    "\\Usuarios\\Models",
+    "\\Usuarios\\Properties",
     "\\Usuarios\\Views",
-    "\\Usuarios\\Views\\Empleado"
+    "\\Usuarios\\Views\\Home"
   ],
-  "SelectedNode": "\\Usuarios\\Views\\Empleado\\Index.cshtml",
+  "SelectedNode": "\\Usuarios\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
