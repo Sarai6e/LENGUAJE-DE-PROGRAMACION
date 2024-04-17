@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.MainPage">
+
+    <AbsoluteLayout>
+        <!-- Imagen de fondo -->
+        <Image Source="pandita.jpg" Aspect="AspectFill" AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1" />
+
+        <!-- Contenido de la página -->
+        <StackLayout AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0.5,0.5,-1,-1" HorizontalOptions="Center">
+            <!-- Logo -->
+            <Image Source="senati_logo.png" HorizontalOptions="Start" VerticalOptions="Start" HeightRequest="120" WidthRequest="50" Margin="0"/>
+
+            <Label x:Name="resultLabel" Text="0" FontSize="Large" TextColor="white" HorizontalTextAlignment="End" VerticalOptions="End"/>
+            <Grid Margin="0,20,0,0" WidthRequest="250">
+                <!-- Ajuste del ancho -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Botones de la calculadora -->
+                <Button Text="7" Grid.Row="1" Grid.Column="0" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <!-- Cambio del color a naranja más fuerte -->
+                <Button Text="8" Grid.Row="1" Grid.Column="1" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="9" Grid.Row="1" Grid.Column="2" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="/" Grid.Row="1" Grid.Column="3" Clicked="OnOperatorClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+
+                <Button Text="4" Grid.Row="2" Grid.Column="0" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="5" Grid.Row="2" Grid.Column="1" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="6" Grid.Row="2" Grid.Column="2" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="*" Grid.Row="2" Grid.Column="3" Clicked="OnOperatorClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+
+                <Button Text="1" Grid.Row="3" Grid.Column="0" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="2" Grid.Row="3" Grid.Column="1" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="3" Grid.Row="3" Grid.Column="2" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="-" Grid.Row="3" Grid.Column="3" Clicked="OnOperatorClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+
+                <Button Text="0" Grid.Row="4" Grid.Column="0" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="C" Grid.Row="4" Grid.Column="1" Clicked="OnClearClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="=" Grid.Row="4" Grid.Column="2" Clicked="OnEqualClicked" BackgroundColor="#FF8C66" TextColor="Black" FontSize="Large"/>
+                <Button Text="+" Grid.Row="4" Grid.Column="3" Clicked="OnOperatorClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+
+                <Button Text="⌫" Grid.Row="5" Grid.Column="0" Clicked="OnClearClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+                <Button Text="." Grid.Row="5" Grid.Column="1" Clicked="OnButtonClicked" BackgroundColor="#FF5733" TextColor="White" FontSize="Large"/>
+            </Grid>
+        </StackLayout>
+    </AbsoluteLayout>
+
+</ContentPage>
