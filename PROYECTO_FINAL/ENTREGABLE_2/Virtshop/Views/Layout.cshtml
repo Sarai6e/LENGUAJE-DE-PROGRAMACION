@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title - Virtshop</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <!-- Aquí puedes incluir tus estilos CSS -->
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="navbar-container">
+                <h1><a href="#"><img id="logo" src="k.png" alt="Logo"></a></h1>
+                <ul class="nav-links">
+                    <li><a href="@Url.Action("Index", "Home")">Inicio</a></li>
+                    <li><a href="@Url.Action("Productos", "Home")">Productos</a></li>
+                    <li><a href="@Url.Action("Proveedores", "Home")">Proveedores</a></li>
+                    <li><a href="@Url.Action("Entradas", "Home")">Entrada</a></li>
+                    <li><a href="@Url.Action("Salidas", "Home")">Salida</a></li>
+                    <li><a href="@Url.Action("Movimientos", "Home")">Movimiento</a></li>
+                </ul>
+                <!-- Aquí puedes incluir tus iconos sociales y enlaces adicionales -->
+            </div>
+        </nav>
+    </header>
+
+    <div class="contenido">
+        @RenderBody()
+    </div>
+
+    <!-- Aquí puedes incluir tu script para el botón de scroll up -->
+    <!-- También puedes incluir aquí tus scripts de JavaScript si es necesario -->
+
+</body>
+</html>
